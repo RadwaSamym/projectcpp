@@ -1,0 +1,21 @@
+A B D Fword1 c cword2 eword2 
+C Cword1 E Fword1 aword2 cword2 d eword2 
+Cword1 Eword1 F Fword1 cword2 dword2 f fword2 
+A C D Eword1 c dword2 f 
+A B Eword1 aword2 bword2 cword2 d fword2 
+Aword1 D Dword1 aword2 c cword2 d f 
+Bword1 D E F bword2 c d e 
+B C D Fword1 b bword2 d f 
+A Aword1 C Cword1 e eword2 fword2 
+Bword1 E a aword2 bword2 dword2 eword2 f 
+Aword1 Bword1 F Fword1 aword2 b d dword2 
+B Cword1 F aword2 bword2 e f 
+A Dword1 E b bword2 c f 
+A Cword1 Dword1 Fword1 d dword2 e 
+Bword1 C D Dword1 b cword2 e fword2 
+D Fword1 aword2 bword2 e eword2 fword2 
+A C Cword1 F Fword1 a c 
+A Aword1 C Dword1 F bword2 cword2 
+Aword1 C Cword1 D aword2 bword2 dword2 
+Aword1 B Bword1 Eword1 Fword1 eword2 f 
+C Dword1 Eword1 F b eword2 f 
