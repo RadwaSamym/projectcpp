@@ -9,7 +9,6 @@
 using namespace std;
 vector <string> shapes;
 vector <string> shapes2;
-vector <string> shapes3;
 vector <set<string>> cards;
 void initShapes (){
     for (char c = 'A';c<='F';c++){
